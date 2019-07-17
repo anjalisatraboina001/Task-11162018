@@ -1,4 +1,4 @@
-package com.mkyong.error;
+package com.anjali.error;
 
 import java.util.Set;
 
