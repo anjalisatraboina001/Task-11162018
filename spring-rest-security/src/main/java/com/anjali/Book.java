@@ -1,6 +1,6 @@
-package com.mkyong;
+package com.anjali;
 
-import com.mkyong.error.validator.Author;
+import com.anjali.error.validator.Author;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
